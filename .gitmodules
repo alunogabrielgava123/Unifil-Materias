@@ -4,3 +4,6 @@
 [submodule "ProjetosInterdiciplinar2/Projeto-Pi"]
 	path = ProjetosInterdiciplinar2/Projeto-Pi
 	url = https://github.com/Vitorlzlz/Projeto-Pi.git
+[submodule "CriandoAppIONIC/CriandoAppIONIC/lista-de-compras-final"]
+	path = CriandoAppIONIC/CriandoAppIONIC/lista-de-compras-final
+	url = https://github.com/Rafael-Yuki/lista-de-compras-final.git
